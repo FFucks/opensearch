@@ -1,8 +1,8 @@
-package controller;
+package opensearch.controller;
 
-import model.Product;
+import opensearch.model.Product;
 import org.springframework.web.bind.annotation.*;
-import service.ProductService;
+import opensearch.service.ProductService;
 
 import java.util.List;
 

@@ -1,3 +1,5 @@
+package opensearch;
+
 import org.opensearch.client.opensearch.OpenSearchClient;
 import org.springframework.boot.CommandLineRunner;
 import org.springframework.boot.SpringApplication;

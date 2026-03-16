@@ -1,4 +1,4 @@
-package model;
+package opensearch.model;
 
 public class Product {
 

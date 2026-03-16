@@ -1,4 +1,4 @@
-package config;
+package opensearch.config;
 
 import org.opensearch.client.opensearch.OpenSearchClient;
 import org.opensearch.client.transport.rest_client.RestClientTransport;

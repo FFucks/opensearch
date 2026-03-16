@@ -1,6 +1,6 @@
-package service;
+package opensearch.service;
 
-import model.Product;
+import opensearch.model.Product;
 import org.opensearch.client.opensearch.OpenSearchClient;
 import org.opensearch.client.opensearch._types.FieldValue;
 import org.springframework.stereotype.Service;
